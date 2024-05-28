@@ -1,0 +1,18 @@
+.bz-color-lite-red {
+    background-color:rgb(241, 206, 192);
+}
+
+.reading-icon{
+    width: 20px;
+}
+
+.bnt-bz-green:hover{
+    background-color: lightgreen;
+}
+
+.bnt-bz-red{
+    background-color: lightcoral ;
+}
+.home-nav-green:hover{
+   color: green;
+}
